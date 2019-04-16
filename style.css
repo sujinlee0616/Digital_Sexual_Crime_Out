@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+.title{font-size: 30px;}
+.subtitle{font-size: 20px;}
+.desc{font-size: 15px;}
+.scroll_bar{width: 50px; height: 10px; background-color: #BFBFBF; margin: 30px;}
+
+
+/* layout */
+.content{width: 100%;}
+.left{width: 50%; background-color: pink;}
+.right{width: 50%; background-color: lightblue;}
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+
+
