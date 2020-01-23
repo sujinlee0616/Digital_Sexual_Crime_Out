@@ -11,8 +11,7 @@ https://webstudynote.tistory.com/28
 https://webstudynote.tistory.com/category/Programming/Git  
 
 
-# Markdown 
-===
+# Markdown Syntax 
 
 # h1
 ## h2
@@ -24,12 +23,13 @@ https://webstudynote.tistory.com/category/Programming/Git
 ***기울일 문구***는 이렇게 적습니다. 
 ~~취소선 문구~~는 이렇게 적습니다.    
    
-개행을 하려면/   
-줄 맨 끝에스페이스바를 두번이상 입력한 후  
+개행을 하려면   
+줄 맨 끝에스페이스바를   
+두번이상 입력한 후  
 엔터를 하면 됩니다   
 
 
-```Java
+```Java //사용할언어
 public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
